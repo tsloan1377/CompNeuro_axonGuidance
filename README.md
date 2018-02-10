@@ -23,7 +23,7 @@ axonSimulations.R:
 
 
 
-Some notes on the original work this is based on.
+Some notes on the original work this is based on:
 
 My thesis was at the intersection of theoretical neurodevelopment and computational neuroengineering (or any combination of those sexy descriptors).
 I spent most of my time writing custom analysis macros in ImageJ and Matlab that aren't much use to anyone. 
