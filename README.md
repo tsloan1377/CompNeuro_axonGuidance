@@ -3,15 +3,20 @@ A few theoretical simulations I made as a part of my PhD coursework.
 
 Folder contents:
 
-Theoretical Guidance Cue Synergy: Two PDFs containing figures and text for the simulations I performed.
+Theoretical Guidance Cue Synergy: 
+    - Two PDFs containing figures and text for the simulations I performed.
 
-CueX_2E_1I_2RR_4xCue_1000reps_csv.csv: Two csv spreadsheets (Cue1 and Cue2) containing poorly formatted data exported from Netlogo behaviour space
+CueX_2E_1I_2RR_4xCue_1000reps_csv.csv: 
+    - Two csv spreadsheets (Cue1 and Cue2) containing poorly formatted data exported from Netlogo behaviour space
 
-** R_load_spreadsheet_data_netlogo_summarize.ipynb: A Jupyter notebook running the R kernel, where I ported the code from 'readNetlogoSpreadsheets_general.R' to be presented more clearly, and better organized. 
+** R_load_spreadsheet_data_netlogo_summarize.ipynb: 
+    - A Jupyter notebook running the R kernel, where I ported the code from 'readNetlogoSpreadsheets_general.R' to be presented more      clearly, and better organized. 
 
-readNetlogoSpreadsheets_general.R: An R script to load data from the above spreadsheets and format it appropriately. 
+readNetlogoSpreadsheets_general.R: 
+    - An R script to load data from the above spreadsheets and format it appropriately. 
 
-axonSimulations.R: Simulation of axon guidance and measurement of turned angles. This script is used to generate the data from Figure 3(A-D) and Figure 4(C-D). This script takes a long time to run.
+axonSimulations.R: 
+    - Simulation of axon guidance and measurement of turned angles. This script is used to generate the data from Figure 3(A-D) and Figure 4(C-D). This script takes a long time to run.
 
 
 
